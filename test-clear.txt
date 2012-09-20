@@ -1,0 +1,15 @@
+{"status":"ok",
+ "counter":208,
+ "events":[
+  {"event_id":208,
+   "message":
+    {"id":82,
+     "room":"computer_science",
+     "public_session_id":"UBDH84",
+     "icon_url":"http://example.com/myicon.png",
+     "type":"user",
+     "speaker_id":"kenn",
+     "nickname":"Kenn Ejima",
+     "text":"!lua bot:clear()",
+     "timestamp":"2011-02-12T08:13:51Z",
+     "local_id":"pending-UBDH84-1"}}]}
